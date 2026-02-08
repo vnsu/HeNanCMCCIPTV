@@ -16,7 +16,7 @@ HeNanCMCCIPTV
 
   **TV 端**
 
-  支持应用：天光云影、DIYP、酷 9、极致TV 等
+  支持应用：天光云影、
 
   下载地址：http://wmdz.top/shell.html
   （注：页面含第三方广告，下载时请注意甄别）
