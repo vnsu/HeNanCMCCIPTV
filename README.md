@@ -11,3 +11,6 @@ TV端：天光云影 DIYP 等
 http://wmdz.top/shell.html
 
 PC端：PotPlayer 等
+
+#直播源地址:
+https://gh-proxy.com/https://raw.githubusercontent.com/vnsu/HeNanCMCCIPTV/refs/heads/main/SU.m3u
