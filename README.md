@@ -29,7 +29,7 @@ HeNanCMCCIPTV
 **4. 直播源地址**
   主直播源：https://gh-proxy.com/https://raw.githubusercontent.com/vnsu/HeNanCMCCIPTV/refs/heads/main/SU.m3u
 
-  包含频道：央视频道、卫视频道、省台频道、省内各地市频道、数字频道等全品类频道
+  包含频道：央视4K频道、卫视4K频道、省台频道、省内各地市频道、数字频道等全品类频道
   
   格式说明：已整合台标关联和分组信息，直接导入播放器即可使用
 
