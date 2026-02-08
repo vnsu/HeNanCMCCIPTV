@@ -16,9 +16,11 @@ HeNanCMCCIPTV
 
   **TV 端**
 
-  支持应用：天光云影、
+  支持应用：天光云影（）
 
-  下载地址：http://wmdz.top/shell.html
+  下载地址：
+  改版：http://wmdz.top/shell.html
+  原版：https://github.com/yaoxieyoulei/mytv-android/releases
   （注：页面含第三方广告，下载时请注意甄别）
   适配设备：安卓电视、机顶盒、投影仪、平板、车机、手机等
 
