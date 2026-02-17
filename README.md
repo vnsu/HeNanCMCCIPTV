@@ -17,6 +17,7 @@
 - 省台频道
 - 省内各地市频道
 - 数字频道等全品类频道
+- 新增8M1080P信号源
 
 ---
 
@@ -63,4 +64,4 @@ https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/
 
 ---
 
-*最后更新：2026年02.08*
+*最后更新：2026年02.17*
