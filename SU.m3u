@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2
@@ -61,6 +65,10 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17
@@ -674,6 +682,11 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226691/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
 #EXTINF:-1 tvg-name="济源" tvg-logo="https://live.fanmingming.cn/tv/济源.png" group-title="省内频道",济源
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226693/index.m3u8
+
+#EXTINF:-1 tvg-name="咪咕4K" tvg-logo="https://live.fanmingming.cn/tv/咪咕4K.png" group-title="数字频道",咪咕4K
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&$anf
+#EXTINF:-1 tvg-name="咪视界4K" tvg-logo="https://live.fanmingming.cn/tv/咪咕4K.png" group-title="数字频道",咪视界4K
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&/PLTV/&$anf
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://live.fanmingming.cn/tv/求索记录.png" group-title="数字频道",求索记录
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://live.fanmingming.cn/tv/求索记录.png" group-title="数字频道",求索记录
