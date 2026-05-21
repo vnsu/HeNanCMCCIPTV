@@ -161,6 +161,14 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227390/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227392/index.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index.m3u8
+
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="CHC频道",CHC家庭影院
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227477/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="CHC频道",CHC动作电影
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227479/index.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="CHC频道",CHC影迷电影
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/index.m3u8
+
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
